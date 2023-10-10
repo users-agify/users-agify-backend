@@ -46,7 +46,7 @@ The backend will be running at `http://localhost:5000`.
 
 ## Agify API Integration
 
-This application integrates with the [Agify API](https://api.agify.io/) to fetch user age based on the provided name.
+This application integrates with the [Agify API](https://api.agify.io/?name=?) to fetch user age based on the provided name.
 
 ## Database
 
